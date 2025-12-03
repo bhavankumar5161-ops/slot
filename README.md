@@ -38,15 +38,15 @@ Execute the program using runserver command.
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
 <caption><b>SLOT TIME TABLE - BHAVAN KUMAR(25008080)</b></caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">Monday</th>
-<th bgcolor="yellow">Tuesday</th>
-<th bgcolor="yellow">Wednesday</th>
-<th bgcolor="yellow">Thursday</th>
-<th bgcolor="yellow">Friday</th>
+<th bgcolor="brown">Day/Time</th>
+<th bgcolor="brown">Monday</th>
+<th bgcolor="brown">Tuesday</th>
+<th bgcolor="brown">Wednesday</th>
+<th bgcolor="brown">Thursday</th>
+<th bgcolor="brown">Friday</th>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">8–10</th>
+<th bgcolor="brown">8–10</th>
 <td>FUNDAMENTALS OF C PROGRAMMING</td>
 <td>COMMUNICATIVE ENGLISH</td>
 <td>PHYSICS FOR QUANTUM COMPUTATION</td>
@@ -54,7 +54,7 @@ Execute the program using runserver command.
 <td>FUNDAMENTALS OF C PROGRAMMING</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">10-12</th>
+<th bgcolor="brown">10-12</th>
 <td>FREE SLOT</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
 <td>PRINCIPLES OF CHEMISTRY IN ENGINEERING</td>
@@ -62,11 +62,11 @@ Execute the program using runserver command.
 <td>STATISTICS AND NUMERICAL METHODS</td>
 </tr>
 <tr>
-<th bgcolor="yellow">12-1</th>
+<th bgcolor="brown">12-1</th>
 <td colspan="5" align="center">L U N C H</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">1-3</th>
+<th bgcolor="brown">1-3</th>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
 <td>COMMUNICATIVE ENGLISH</td>
@@ -74,7 +74,7 @@ Execute the program using runserver command.
 <td>SOFT SKILLS</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">3-5</th>
+<th bgcolor="brown">3-5</th>
 <td>STATISTICS AND NUMERICAL METHODS</td>
 <td>FREE SLOT</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
@@ -114,7 +114,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-27 203318.png>)
+<img width="1897" height="977" alt="image" src="https://github.com/user-attachments/assets/28e6fc9d-1833-4afe-bc17-1ba2e09e784b" />
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
